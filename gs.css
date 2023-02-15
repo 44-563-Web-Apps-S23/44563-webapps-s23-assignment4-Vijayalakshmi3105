@@ -9,6 +9,9 @@
     color: black;
     background-color: orange
 }
+.name {
+    
+}
 .direction:hover {
     background-color: brown;
     color: aquamarine
@@ -21,6 +24,12 @@
 .ROSA {
     color: red
 }
+
+
+
+
+
+
 
 table,
 th,
