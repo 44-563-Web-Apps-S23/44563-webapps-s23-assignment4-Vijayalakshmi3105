@@ -81,33 +81,33 @@ tr:nth-child(odd) {
 
 ul.navbar-horizontal {
     display:block;
-    padding: 100%;
-    color:chartreuse
+    padding: 70%;
+    color:rgb(0, 38, 255)
 }
 
 ul.navbar-horizontal {
     /* remove these */
-    list-style-type:none;
-    margin: 10px;
-    padding: 10px;}
+    list-style-type: disc;
+    margin: 15px;
+    padding: 15px;}
 
 ul.navbar-horizontal li {
     float:left;
-    background-color:bisque;
+    background-color:rgb(255, 196, 196);
 }
 
 ul.navbar-horizontal a {
     display:block;
-    padding: 8px;
+    padding: 10px;
 }
 
 /* on hover change the link color*/
 ul.navbar-horizontal a:hover {
-    color:coral;
+    color:rgb(80, 92, 255);
 }
 
 .image {
-    width: 30%;
+    width: 50%;
 }
 Footer
 
