@@ -87,7 +87,7 @@ ul.navbar-horizontal {
 
 ul.navbar-horizontal {
     /* remove these */
-    list-style-type: disc;
+    list-style-type: none;
     margin: 15px;
     padding: 15px;}
 
